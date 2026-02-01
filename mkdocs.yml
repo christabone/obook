@@ -70,6 +70,7 @@ nav:
       - Ontology Curator OBI-style: pathways/ontology-curator-obi-style.md
       - Ontology Engineer/Developer: pathways/ontology-engineer.md
       - Ontology Contributor: pathways/ontology-contributor.md
+      - AI-powered semantic engineer: pathways/ai-powered-semantic-engineer.md
   - Lessons:
       - Contributing to OBO ontologies: lesson/contributing-to-obo-ontologies.md
       - Ontology Pipelines with ROBOT: lesson/ontology-pipelines.md
@@ -120,6 +121,7 @@ nav:
           - Introduction to Managing DOSDP Templates in ODK: tutorial/dosdp-odk.md
       - Git, GitHub and Collaborative Workflows:
           - GitHub Fundamentals for OBO Engineers: tutorial/github-fundamentals.md
+          - GitHub Basics: howto/github-basics.md
           - GitHub Issue for OBO Engineers: tutorial/github-issues.md
           - Managing OBO ontology projects: tutorial/managing-ontology-project.md
           - Pull requests: tutorial/pull-requests.md
